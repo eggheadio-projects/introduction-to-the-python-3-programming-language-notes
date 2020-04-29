@@ -4,7 +4,7 @@
 
 Null in Python is represented as `None`.
 
-`foo = None `
+`foo = None`
 
 ## How to Check for Null in Python
 

@@ -38,10 +38,9 @@ Enjoy the course!
 - [20- Read Input in Python from the Console](20.md)
 - [21- Create Reusable Components with Functions in Python](21.md)
 - [22- Reuse Code in Multiple Projects with Python Modules](22.md)
-- [23- Read and Parse Files in Pytho](23.md)
+- [23- Read and Parse Files in Python](23.md)
 - [24- Write to a File in Python](24.md)
 - [25- Handle Exceptions to prevent crashes in Python](25.md)
 - [26- Understand Scope in Python](26.md)
 - [27- Use Python Classes](27.md)
 - [28- Manage packages with pip in Python](28.md)
-
