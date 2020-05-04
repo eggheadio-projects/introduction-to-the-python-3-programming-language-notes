@@ -6,7 +6,7 @@ A great way to understand scope in functions is to create nested functions that 
 
 Variables are limited to the scope of the function they were created in and any functions created with in their function. It's easier to understand when you see it in code.
 
-Look at the comments for clearer understanding. 
+Look at the comments for clearer understanding.
 
 ```python
 def whoami():
@@ -30,7 +30,7 @@ I am groot
 
 Notice, there's no `I am local groot`.
 
-I like to think of functions and their nested functions as celebrities and regular people. Us normal people know everything that goes on in celebrities lives but celebrities don't know anything about us. Functions are the celebrities and nested functions are the normal people.
+I like to think of functions and their nested functions as celebrities and regular people. Us normal people know everything that goes on in celebrities lives but celebrities don't know anything about us. Functions are the celebrities and nested functions are the normal people; functions don't recognize nested functions even though functions can be called successfully within nested functions.
 
 Adding a `print` statement within the `local_groot()` will allow us to see `I am local groot` printed out since `local_groot()` is called in `whoami()`.
 
