@@ -1,5 +1,7 @@
 # [Introduction to the Python 3 Programming Language](https://egghead.io/courses/introduction-to-the-python-3-programming-language)
 
+
+<p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/129/full/EGH_IntroPython.png" width="300"/></p>
 <p align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
     
@@ -7,6 +9,7 @@
     
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </p>
+
 
 ## About
 
